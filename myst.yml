@@ -10,6 +10,9 @@ project:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
 site:
   template: book-theme
-  # options:
+  title: "Geobook"
+  options:
+  footer:
+    text: "made by Shuhao Li; 2025"
   #   favicon: favicon.ico
   #   logo: site_logo.png
