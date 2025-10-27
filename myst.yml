@@ -9,6 +9,9 @@ project:
   # github:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
 site:
+  nav:
+    - title: Geobook
+      url: index.md
   template: book-theme
   title: "Geobook"
   options:
