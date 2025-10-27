@@ -12,7 +12,7 @@ site:
   # nav:
   #   - title: "Geobook"
   #     url: /README
-  template: book-theme
+  template: 
     name: book-theme
     options:
       # ✅ 替换左上角 MyST 品牌文字
