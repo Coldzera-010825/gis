@@ -9,10 +9,16 @@ project:
   # github:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
 site:
-  nav:
-    - title: "Geobook"
-      url: /README
+  # nav:
+  #   - title: "Geobook"
+  #     url: /README
   template: book-theme
+    name: book-theme
+    options:
+      # ✅ 替换左上角 MyST 品牌文字
+      logo_text: "Geobook"
+      # ✅ 可选：替换 favicon 或 logo 图标
+      #logo: assets/logo.png
   title: "Geobook"
   options:
   footer:
