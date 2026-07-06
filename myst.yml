@@ -20,6 +20,7 @@ project:
     - title: Visual Gallery
       children:
         - file: visual/gallery.md
+        - file: visual/ggcube-3d.md
         - file: visual/circular-lollipop.md
         - file: visual/facility-residuals.md
 site:
