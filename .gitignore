@@ -1,0 +1,4 @@
+# local build artifacts (CI builds fresh on deploy)
+_build/html/
+build_log.txt
+_build/temp/
