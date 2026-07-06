@@ -7,7 +7,21 @@ project:
   # keywords: []
   # authors: []
   # github:
-  # To autogenerate a Table of Contents, run "myst init --write-toc"
+  toc:
+    - file: README.md
+    - title: Geocode
+      children:
+        - file: geocode/beijing54_to_wgs84.ipynb
+        - file: geocode/kml_ouput.ipynb
+        - file: geocode/shp2tif_workflow.ipynb
+        - file: geocode/trans_CRS.ipynb
+        - file: geocode/更改字段名称.ipynb
+        - file: geocode/管井高度变化值统计.ipynb
+    - title: Visual Gallery
+      children:
+        - file: visual/gallery.md
+        - file: visual/circular-lollipop.md
+        - file: visual/facility-residuals.md
 site:
   # nav:
   #   - title: "Geobook"
