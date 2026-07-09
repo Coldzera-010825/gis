@@ -2,3 +2,8 @@
 _build/html/
 build_log.txt
 _build/temp/
+
+# LaTeX build artifacts
+*.aux
+*.log
+visual/code/**/*.pdf
