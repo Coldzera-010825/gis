@@ -23,6 +23,7 @@ project:
         - file: visual/ggcube-3d.md
         - file: visual/circular-lollipop.md
         - file: visual/facility-residuals.md
+        - file: visual/neural-net-diagrams.md
 site:
   # nav:
   #   - title: "Geobook"
