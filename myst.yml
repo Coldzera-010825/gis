@@ -27,6 +27,7 @@ project:
         - file: visual/node-link-networks.md
         - file: visual/shap-interpretability.md
         - file: visual/model-evaluation.md
+        - file: visual/clustering-viz.md
 site:
   # nav:
   #   - title: "Geobook"
