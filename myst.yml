@@ -24,6 +24,7 @@ project:
         - file: visual/circular-lollipop.md
         - file: visual/facility-residuals.md
         - file: visual/neural-net-diagrams.md
+        - file: visual/node-link-networks.md
 site:
   # nav:
   #   - title: "Geobook"
