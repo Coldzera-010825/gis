@@ -28,6 +28,7 @@ project:
         - file: visual/shap-interpretability.md
         - file: visual/model-evaluation.md
         - file: visual/clustering-viz.md
+        - file: visual/correlation-heatmaps.md
 site:
   # nav:
   #   - title: "Geobook"
