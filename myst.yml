@@ -29,6 +29,7 @@ project:
         - file: visual/model-evaluation.md
         - file: visual/clustering-viz.md
         - file: visual/correlation-heatmaps.md
+        - file: visual/colour-palettes.md
 site:
   # nav:
   #   - title: "Geobook"
